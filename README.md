@@ -1,5 +1,5 @@
 # Amazon Food Review
-**Predictive Model: NLP Sentiment Analysis using ML model.**
+**Predictive Model: NLP Sentiment Analysis using ML model**
 1. Data preprocessing and EDA using Pandas, Matplotlib & Seaborn.
 2. Text Preprocessing:
     - Cleaning: Regex Package
